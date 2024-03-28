@@ -1,0 +1,32 @@
+.myHeading{
+    font-size: 30px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 4px 4px 4px purple;
+    font-family: cursive;
+    background-color:goldenrod;
+}
+.note{
+    font-size: 20px;
+    color: rgb(255, 0, 30);
+    white-space:wrap;
+    font-family: "Rubik Scribble";
+    font-weight: bolder;
+}
+.footer{
+    position:fixed;
+    bottom:0;
+    background-color:aquamarine;
+    color:purple;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    font-size: 25px;
+    font-family: "Dancing Script";
+    font-weight: bold;
+}
+canvas{
+    border: 5px dashed green;
+    border-radius: 10px;
+    box-shadow: 5px 5px 4px black;
+}
